@@ -51,3 +51,16 @@ MANIFEST
 # Per-project virtualenvs
 .venv*/
 .conda*/
+
+# Project reports and logs
+archived_reports/*
+latest_logs/*
+latest_report/*
+visual_baseline/*
+downloaded_fi
+devtest/visual_testing/*
+downloaded_files/*
+images_exported/*
+saved_charts/*
+dashboard.html
+assets/*
